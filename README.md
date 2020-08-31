@@ -1,6 +1,6 @@
 # SNAKE GAME
 
-[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/CDP-BETA/memento-mori)
+[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/zerone2/snake-game)
 
 누구나 한번쯤은 경험해 본 미니 뱀게임입니다. <br/>
 간단한 html + css + js 조합으로 만들어 봤습니다! <br/>
